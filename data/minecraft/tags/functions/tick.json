@@ -1,0 +1,7 @@
+{
+    "values":[
+        "minenautica:main/main",
+        "minenautica:instruments/instrumentsmain",
+        "minenautica:main/rcclear"
+    ]
+}
