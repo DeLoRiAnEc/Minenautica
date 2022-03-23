@@ -1,1 +1,0 @@
-execute as @s if predicate minenautica:limestone run function minenautica:instruments/scaner/skanprogres
